@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin:0;
+}
+
+body{
+    font-family: "Roboto";
+    background-color: black;
+    font-family: calibri;
+}
+
+div{
+    width: 30%;
+    height:250px;
+    border: 10px solid #a81919;
+    padding: 20px;
+    /*margin: 10px 12px 50px 60px;*/
+    margin-top: 10px;
+    margin-right:12px;
+    margin-bottom: 50px;
+    margin-left:60px;
+   
+    background: rgb(162, 0, 255);
+    text-align: center;
+}

@@ -1,0 +1,21 @@
+body{
+    background-image: url("../img2/fondo-vintage-3.jpg");
+    background-color: aqua;
+    font-family: calibri;
+}
+ h1{
+     font-size: 25px;
+     color: #FFFFFF;
+
+ }
+
+P{
+    color: aliceblue;
+}
+
+.uno {
+    background-color: brown;
+    width: 60%;
+    height: 350px;
+    margin: auto;
+}
